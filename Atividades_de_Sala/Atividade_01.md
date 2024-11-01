@@ -1,5 +1,3 @@
-[![Contato (Instagram)](https://www.instagram.com/biancalvesmart/)
-
 
 # :wave: Atividade 01
 
