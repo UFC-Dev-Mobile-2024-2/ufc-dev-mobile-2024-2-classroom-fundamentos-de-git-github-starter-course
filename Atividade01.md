@@ -1,3 +1,5 @@
-📝 Passos da Tarefa
- Crie um novo arquivo markdown neste repositório. Compartilhe o que aprendeu e o que ainda causa dúvidas! Experimente estilos diferentes!
- Abra um pull request no seu repositório individual informando que concluiu este curso.
+## 🤔 O que eu aprendi?
+
+Aprendi a diferença entre Git e GitHub e percebi que o GitHub não é um bicho 
+de sete cabeças, apesar de complexo é possível de entender eventualmente mentendo
+a prática.
