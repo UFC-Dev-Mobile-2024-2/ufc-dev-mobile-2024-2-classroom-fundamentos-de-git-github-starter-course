@@ -98,6 +98,9 @@ Você pode acessar o site do GitHub Explore [em github.com/explore](https://gith
 - [ ] Crie um novo arquivo markdown neste repositório. Compartilhe o que aprendeu e o que ainda causa dúvidas! Experimente estilos diferentes!
 - [ ] Abra um pull request no seu repositório individual informando que concluiu este curso.
 
+
+# Markdown
+
 ## 📝 Passos da Tarefa (para quem achou fácil a anterior)
 
 - [ ] Resolver desafios do nível **Sequência Introdutória** de https://learngitbranching.js.org/?locale=pt_BR
