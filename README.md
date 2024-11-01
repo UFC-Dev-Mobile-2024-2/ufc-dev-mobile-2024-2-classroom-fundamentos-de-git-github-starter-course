@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Jp-8Am8F)
 # :wave: Fundamentos Git e GitHub
 
 ## 🤓 Visão Geral do Curso e Resultados de Aprendizagem
@@ -96,6 +97,9 @@ Você pode acessar o site do GitHub Explore [em github.com/explore](https://gith
 
 - [ ] Crie um novo arquivo markdown neste repositório. Compartilhe o que aprendeu e o que ainda causa dúvidas! Experimente estilos diferentes!
 - [ ] Abra um pull request no seu repositório individual informando que concluiu este curso.
+
+
+# Markdown
 
 ## 📝 Passos da Tarefa (para quem achou fácil a anterior)
 
