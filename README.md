@@ -95,8 +95,8 @@ Você pode acessar o site do GitHub Explore [em github.com/explore](https://gith
 
 ## 📝 Passos da Tarefa
 
-- [x] Crie um novo arquivo markdown neste repositório. Compartilhe o que aprendeu e o que ainda causa dúvidas! Experimente estilos diferentes!
-- [ ] Abra um pull request no seu repositório individual informando que concluiu este curso.
+- [X] Crie um novo arquivo markdown neste repositório. Compartilhe o que aprendeu e o que ainda causa dúvidas! Experimente estilos diferentes! Ok
+- [X] Abra um pull request no seu repositório individual informando que concluiu este curso. Ok
 
 ## 📝 Passos da Tarefa (para quem achou fácil a anterior)
 
